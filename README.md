@@ -9,14 +9,19 @@
 
 ### 🛠 Technology Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue-000?style=flat&logo=adobe-photoshop)\
+![Vue](https://img.shields.io/badge/-Vue-000?style=flat&logo=vuedotjs)&nbsp;
+![Nuxt](https://img.shields.io/badge/-Nuxt-000?style=flat&logo=nuxt)&nbsp;
+![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)&nbsp;
+![小程序](https://img.shields.io/badge/小程序-000?style=flat&logo=wechat)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)\
+
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)&nbsp;\
-![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)\
-![Markdown](https://img.shields.io/badge/-Markdown-000?style=flat&logo=markdown)&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-000?style=000&logo=fastapi)\
+
+![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?style=flat&logo=ubuntu)\
+
+![Markdown](https://img.shields.io/badge/-Markdown-000?style=flat&logo=markdown)\
 
 -------
 
