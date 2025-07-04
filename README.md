@@ -12,16 +12,23 @@
 ![Vue](https://img.shields.io/badge/-Vue-000?style=flat&logo=vuedotjs)&nbsp;
 ![Nuxt](https://img.shields.io/badge/-Nuxt-000?style=flat&logo=nuxt)&nbsp;
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)&nbsp;
+
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)&nbsp;
+
 ![小程序](https://img.shields.io/badge/小程序-000?style=flat&logo=wechat)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)\
+![UniAPP](https://img.shields.io/badge/UniAPP-000?style=flat&logo=uniapp)&nbsp;
+
+![Electron](https://img.shields.io/badge/-Electron-000?style=flat&logo=electron)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-000?style=flat&logo=flutter)&nbsp;
+![Tauri](https://img.shields.io/badge/Tauri-000?style=flat&logo=tauri)&nbsp;
 
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)&nbsp;
-![FastAPI](https://img.shields.io/badge/FastAPI-000?style=000&logo=fastapi)\
+![FastAPI](https://img.shields.io/badge/FastAPI-000?style=000&logo=fastapi)
 
 ![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)&nbsp;
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?style=flat&logo=ubuntu)\
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?style=flat&logo=ubuntu)
 
-![Markdown](https://img.shields.io/badge/-Markdown-000?style=flat&logo=markdown)\
+![Markdown](https://img.shields.io/badge/-Markdown-000?style=flat&logo=markdown)
 
 -------
 
