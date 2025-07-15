@@ -15,8 +15,8 @@
 ![Nuxt](https://img.shields.io/badge/-Nuxt-000?style=flat&logo=nuxt)&nbsp;
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)&nbsp;
 
-![小程序](https://img.shields.io/badge/小程序-000?style=flat&logo=wechat)&nbsp;
-![UniAPP](https://img.shields.io/badge/UniAPP-000?style=flat&logo=uniapp)&nbsp;
+![UniApp](https://img.shields.io/badge/-UniApp-000?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAABCElEQVRoge3YMa4BURSH8Y8o7UAp0WgkotBZwluAfhqlZSgUGr23ENUUCpppJnTswAIUSCaTiziZJ8d9/193zdzrfMltABF5plb+oLscDoAV0Pn8OC/lwDhL0k35QT3wstcIuM61Cj0IhXiNuAvOFwr5SgrxRiHeKMSbhnHfAVgU1i1gajhnBpwK6wnQtgxkDTlmSTq/L7rLYQ9byG+WpLvCOT8YQ6K5WgrxRiHeKMQbhXijEG8U4o1CvIkmxPrDquwMrI37KlFJSJake2BUxVlW0VytaEKsV6t5+8Ohak3rRmtIH9hav/QvRHO1FOKNQrwJheQfn+I9wflCIeNHLzuQc51PRP6rC1ZeIm1I8cC5AAAAAElFTkSuQmCC)&nbsp;
+![微信小程序](https://img.shields.io/badge/-小程序-000?style=flat&logo=wechat)&nbsp;
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)&nbsp;
 
