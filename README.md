@@ -2,8 +2,8 @@
 
 ### 👨🏻‍💻 About Me
 
-- 🤔 FrontEnd Engineer
-- 🌱 Learning Python、Flutter
+- ❤️ FrontEnd Engineer
+- 🌱 Learning Python
 
 -------
 
