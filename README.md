@@ -9,6 +9,11 @@
 ### 🛠 Technology Stack
 
 ![Tailwind](https://img.shields.io/badge/-Tailwind-000?logo=tailwindcss)&nbsp;
+![Element Plus](https://img.shields.io/badge/Element%20Plus-000?logo=elementplus)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-000?logo=antdesign)
+![Arco Design](https://img.shields.io/badge/Arco%20Design-000?logo=arco)
+![TDesign](https://img.shields.io/badge/TDesign-000?logo=tdesign)
+
 ![Vue](https://img.shields.io/badge/-Vue-000?logo=vuedotjs)&nbsp;
 ![Nuxt](https://img.shields.io/badge/-Nuxt-000?logo=nuxt)&nbsp;
 ![React](https://img.shields.io/badge/-React-000?logo=react)&nbsp;
@@ -19,6 +24,7 @@
 
 ![Electron](https://img.shields.io/badge/-Electron-000?logo=electron)&nbsp;
 ![Tauri](https://img.shields.io/badge/Tauri-000?logo=tauri)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-000?logo=flutter)&nbsp;
 
 ![Python](https://img.shields.io/badge/-Python-000?logo=python)&nbsp;
 ![FastAPI](https://img.shields.io/badge/FastAPI-000?logo=fastapi)&nbsp;
