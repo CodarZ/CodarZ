@@ -34,7 +34,7 @@
 -->
 
 <p align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodarZ&theme=github_dark&include_all_commits=true&count_private=true&hide=contribs,issues" alt="CodarZ's profile-summary-cards"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodarZ&theme=github_dark&include_all_commits=true" alt="CodarZ's profile-summary-cards"  />
 </p>
 
 
