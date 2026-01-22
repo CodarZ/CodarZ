@@ -10,11 +10,11 @@
 
 ![Tailwind](https://img.shields.io/badge/-Tailwind-000?logo=tailwindcss)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=white)
-![Element Plus](https://img.shields.io/badge/Element%20Plus-000?logo=elementplus)
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-000?logo=antdesign)
 ![Semi%20Design](https://img.shields.io/badge/Semi%20Design-000)
 ![Arco Design](https://img.shields.io/badge/Arco%20Design-000?logo=arco)
 ![TDesign](https://img.shields.io/badge/TDesign-000?logo=tdesign)
+![Element Plus](https://img.shields.io/badge/Element%20Plus-000?logo=elementplus)
 
 ![Vue](https://img.shields.io/badge/-Vue-000?logo=vuedotjs)&nbsp;
 ![Nuxt](https://img.shields.io/badge/-Nuxt-000?logo=nuxt)&nbsp;
