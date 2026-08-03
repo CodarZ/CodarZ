@@ -1,13 +1,11 @@
 # This is a basic workflow to help you get started with Actions
+name: Readme
 
-name: Waka Readme
-
-# Controls when the action will run. Triggers the workflow on push or pull request
-# events but only for the master branch
+# Controls when the action will run.
 on:
   workflow_dispatch:
   schedule:
-    # Runs every Sunday at 16:00 UTC (i.e. Monday 00:00 CST/Beijing time)
+    # Runs every day at 00:00 UTC (i.e. Monday 08:00 CST/Beijing time)
     - cron: '0 0 * * *'
 
 jobs:
@@ -15,7 +13,13 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      # 1. 先 checkout 仓库
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # 2. WakaTime 统计
+      - name: Get WakaTime Data
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -35,4 +39,14 @@ jobs:
           SHOW_LOC_CHART: 'False'
           SHOW_UPDATED_DATE: 'False'
           SHOW_AI_CODING: 'False'
-          
+
+      # 3. 生成 GitHub Profile Summary Cards
+      - name: Generate GitHub Profile Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        with:
+          USERNAME: CodarZ
+          UTC_OFFSET: 8
+          THEME: github_dark
+          AUTO_PUSH: true
