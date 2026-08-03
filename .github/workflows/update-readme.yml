@@ -44,10 +44,10 @@ jobs:
       - name: Generate GitHub Profile Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
         with:
+          BRANCH_NAME: master
           USERNAME: CodarZ
           UTC_OFFSET: 8
           THEME: github_dark
           AUTO_PUSH: true
-          BRANCH_NAME: master
