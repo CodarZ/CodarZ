@@ -50,3 +50,4 @@ jobs:
           UTC_OFFSET: 8
           THEME: github_dark
           AUTO_PUSH: true
+          BRANCH_NAME: master
