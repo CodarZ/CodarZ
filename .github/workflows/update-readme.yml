@@ -8,9 +8,6 @@ on:
     # Runs every day at 00:00 UTC (i.e. Monday 08:00 CST/Beijing time)
     - cron: '0 0 * * *'
 
-permissions:
-  contents: write
-
 jobs:
   update-readme:
     name: Update this repo's README
@@ -47,10 +44,8 @@ jobs:
       - name: Generate GitHub Profile Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
-          BRANCH_NAME: master
           USERNAME: CodarZ
           UTC_OFFSET: 8
           THEME: github_dark
-          AUTO_PUSH: true
